@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnnmodel_total_450.ckpt"
+all_model_checkpoint_paths: "cnnmodel_total_450.ckpt"
